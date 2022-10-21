@@ -74,11 +74,11 @@ l'éxécution de l'application par l'exécution du fichier code manager.py
 
 \$ pip install -r requierement.txt
 
-\### Génératio du rapport flake8-html
+\### Génération du rapport flake8-html
 
 \$ pip install flake8-html
 
-\$ flake8 --format=html --max-line-length=119 --htmldir=flake-report^C
+\$ flake8 --format=html --max-line-length=119 --htmldir=flake-report
 
 
 Exécution du script
