@@ -78,7 +78,7 @@ l'éxécution de l'application par l'exécution du fichier code manager.py
 
 \$ pip install flake8-html
 
-\$ flake8 --format=html --htmldir=flake-report
+\$ flake8 --format=html --max-line-length=119 --htmldir=flake-report^C
 
 
 Exécution du script
